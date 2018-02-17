@@ -35,3 +35,4 @@ Not only that, but we were successfully able to implement some kind of hardware 
 Before this I personally have only used example inputs and outputs from Kadenze, but this project allowed us to be more creative and create something fun.
 Overall, sound input is definitely hard, so working with that much noise can be difficult. Smoothing with WekiInputHelper or in processing is incredibly necesssary.
 # G-ClsReg-KeJo
+# G-ClsReg-KeJo
