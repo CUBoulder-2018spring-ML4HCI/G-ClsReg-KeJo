@@ -1,0 +1,14 @@
+@relation dataset
+
+@attribute ID numeric
+@attribute Time date 'yyyy/MM/dd HH:mm:ss:SSS'
+@attribute 'Training round' numeric
+@attribute inputs-1 numeric
+@attribute outputs-1 {0,1,2,3,4,5,6,7,8,9,10,11,12}
+
+@data
+1,'2018/02/16 19:03:53:498',1,97,1
+2,'2018/02/16 19:03:58:514',2,115,2
+3,'2018/02/16 19:04:03:617',3,100,3
+4,'2018/02/16 19:04:09:141',4,102,4
+5,'2018/02/16 19:04:16:653',5,103,5
