@@ -2,7 +2,7 @@
 Jonathan Fermin and Kevin Flynn
 
 #Demo Video
-[Link to our Video](https://www.google.com)
+[Link to our Video](https://vimeo.com/256174482)
 
 # Goals
 - Create an input using some kind of hardware tool
